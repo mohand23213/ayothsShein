@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "722081025698",
+    "project_id": "ayosh-825df",
+    "storage_bucket": "ayosh-825df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722081025698:android:5d6b20d9fe3dd916be91fb",
+        "android_client_info": {
+          "package_name": "com.mohand.ayooshshein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722081025698-9j04ae7k1t70in7k7ffljqpgl8qac7fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7yGc7MSm6UlmADKPSJKW8v1SyfePVpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722081025698-9j04ae7k1t70in7k7ffljqpgl8qac7fi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722081025698-5mo8e45807mmfuimm5e9igl38r5lut4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohand.ayooshshein"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
